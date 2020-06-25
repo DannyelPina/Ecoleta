@@ -1,7 +1,7 @@
 # Ecoleta
 This project carried out within the scope of Rocketseat's NextLevelWeek course.
 
-**It includes three small modules:**
+**It includes three modules:**
 - [REST API](https://github.com/DannyelPina/Ecoleta/tree/master/server "REST API");
 - [Wepp App](https://github.com/DannyelPina/Ecoleta/tree/master/web "Wepp App");
 - [Mobile App](https://github.com/DannyelPina/Ecoleta/tree/master/mobile "Mobile App").
