@@ -1,0 +1,24 @@
+#page {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--title-color);
+}
+
+#sucess-message {
+    color: green;
+}
+
+.link {
+    margin: 14px;
+    text-decoration: none;
+    padding: 8px;    
+}
+
+.link, .arrowLeft {
+    color: var(--text-color);
+}
